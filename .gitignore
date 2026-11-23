@@ -1,0 +1,9 @@
+node_modules/
+artifacts/
+.tmp/
+plugins/*/lib/
+plugins/*/index.mjs
+plugins/*/remote-entry.mjs
+plugins/*/stdio-entry.mjs
+plugins/*/tunnelde-plugin.json
+plugins/*/README*
